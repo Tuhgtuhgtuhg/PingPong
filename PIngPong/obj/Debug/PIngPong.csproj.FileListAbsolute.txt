@@ -1,0 +1,10 @@
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\bin\Debug\PIngPong.exe.config
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\bin\Debug\PIngPong.exe
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\bin\Debug\PIngPong.pdb
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.csprojAssemblyReference.cache
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.Form1.resources
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.Properties.Resources.resources
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.GenerateResource.cache
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.csproj.CoreCompileInputs.cache
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.exe
+D:\My Data Base\Visual Studio 2017\PIngPong\PIngPong\obj\Debug\PIngPong.pdb

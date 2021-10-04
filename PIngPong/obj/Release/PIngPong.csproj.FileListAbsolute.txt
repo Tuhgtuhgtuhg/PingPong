@@ -1,0 +1,20 @@
+C:\Users\tuhgt\Videos\[itproger] Изучение C# от новичка до профи\#2 - Создание программ\#2 - Добавление дизайна и создание exe файла\file\PIngPong\PIngPong\bin\Release\PIngPong.exe.config
+C:\Users\tuhgt\Videos\[itproger] Изучение C# от новичка до профи\#2 - Создание программ\#2 - Добавление дизайна и создание exe файла\file\PIngPong\PIngPong\bin\Release\PIngPong.exe
+C:\Users\tuhgt\Videos\[itproger] Изучение C# от новичка до профи\#2 - Создание программ\#2 - Добавление дизайна и создание exe файла\file\PIngPong\PIngPong\bin\Release\PIngPong.pdb
+C:\Users\tuhgt\Videos\[itproger] Изучение C# от новичка до профи\#2 - Создание программ\#2 - Добавление дизайна и создание exe файла\file\PIngPong\PIngPong\obj\Release\PIngPong.csproj.AssemblyReference.cache
+C:\Users\tuhgt\Videos\[itproger] Изучение C# от новичка до профи\#2 - Создание программ\#2 - Добавление дизайна и создание exe файла\file\PIngPong\PIngPong\obj\Release\PIngPong.Form1.resources
+C:\Users\tuhgt\Videos\[itproger] Изучение C# от новичка до профи\#2 - Создание программ\#2 - Добавление дизайна и создание exe файла\file\PIngPong\PIngPong\obj\Release\PIngPong.Properties.Resources.resources
+C:\Users\tuhgt\Videos\[itproger] Изучение C# от новичка до профи\#2 - Создание программ\#2 - Добавление дизайна и создание exe файла\file\PIngPong\PIngPong\obj\Release\PIngPong.csproj.GenerateResource.cache
+C:\Users\tuhgt\Videos\[itproger] Изучение C# от новичка до профи\#2 - Создание программ\#2 - Добавление дизайна и создание exe файла\file\PIngPong\PIngPong\obj\Release\PIngPong.csproj.CoreCompileInputs.cache
+C:\Users\tuhgt\Videos\[itproger] Изучение C# от новичка до профи\#2 - Создание программ\#2 - Добавление дизайна и создание exe файла\file\PIngPong\PIngPong\obj\Release\PIngPong.exe
+C:\Users\tuhgt\Videos\[itproger] Изучение C# от новичка до профи\#2 - Создание программ\#2 - Добавление дизайна и создание exe файла\file\PIngPong\PIngPong\obj\Release\PIngPong.pdb
+C:\Users\tuhgt\Desktop\ПИНГ ПОНГ\file\PIngPong\PIngPong\bin\Release\PIngPong.exe.config
+C:\Users\tuhgt\Desktop\ПИНГ ПОНГ\file\PIngPong\PIngPong\bin\Release\PIngPong.exe
+C:\Users\tuhgt\Desktop\ПИНГ ПОНГ\file\PIngPong\PIngPong\bin\Release\PIngPong.pdb
+C:\Users\tuhgt\Desktop\ПИНГ ПОНГ\file\PIngPong\PIngPong\obj\Release\PIngPong.csproj.AssemblyReference.cache
+C:\Users\tuhgt\Desktop\ПИНГ ПОНГ\file\PIngPong\PIngPong\obj\Release\PIngPong.Form1.resources
+C:\Users\tuhgt\Desktop\ПИНГ ПОНГ\file\PIngPong\PIngPong\obj\Release\PIngPong.Properties.Resources.resources
+C:\Users\tuhgt\Desktop\ПИНГ ПОНГ\file\PIngPong\PIngPong\obj\Release\PIngPong.csproj.GenerateResource.cache
+C:\Users\tuhgt\Desktop\ПИНГ ПОНГ\file\PIngPong\PIngPong\obj\Release\PIngPong.csproj.CoreCompileInputs.cache
+C:\Users\tuhgt\Desktop\ПИНГ ПОНГ\file\PIngPong\PIngPong\obj\Release\PIngPong.exe
+C:\Users\tuhgt\Desktop\ПИНГ ПОНГ\file\PIngPong\PIngPong\obj\Release\PIngPong.pdb
